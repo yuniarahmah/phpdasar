@@ -17,7 +17,7 @@
 
 <body class="min-vh-100 d-flex align-items-center">
     <div class="card w-50 m-auto p-3">
-        <h3 class="text-center">Read </h3>
+        <h3 class="text-center">guru </h3>
         <table class="table  table-striped">
             <thead>
                 <tr>
